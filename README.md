@@ -16,7 +16,6 @@
 **Runtime & Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![API REST](https://img.shields.io/badge/REST%20API-005571?style=flat)
 
 **Banco de Dados**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
