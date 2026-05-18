@@ -5,7 +5,7 @@ Transformo ideias em experiências visuais bonitas e funcionais.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 **Core Web**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
