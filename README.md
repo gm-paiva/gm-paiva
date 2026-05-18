@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Guilherme Matos Paiva!
 
-> Frontend Developer apaixonado por criar interfaces que comunicam e encantam.
-> Transformo ideias em experiências visuais bonitas e funcionais.
+Frontend Developer apaixonado por criar interfaces que comunicam e encantam.
+Transformo ideias em experiências visuais bonitas e funcionais.
 
 ---
 
