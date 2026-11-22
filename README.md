@@ -1,36 +1,34 @@
-# 👋 Olá, eu sou Guilherme Matos Paiva!
+<div align="center">
+  <img src="./assets/header.svg" alt="Guilherme Matos Paiva — Software Developer" width="100%" />
+</div>
 
-Frontend Developer apaixonado por criar interfaces que comunicam e encantam.
-Transformo ideias em experiências visuais bonitas e funcionais.
+## Sobre mim
 
----
+Sou **Guilherme Matos Paiva**, estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Jacareí**, com foco em desenvolvimento de software e aplicações web.
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-**Core Web**
+**01 / FRONT-END**
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+![HTML5](https://img.shields.io/badge/HTML5-172537?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-172537?style=for-the-badge&logo=css&logoColor=663399)
+![JavaScript](https://img.shields.io/badge/JavaScript-172537?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-172537?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-172537?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Runtime & Backend**
+**02 / BACK-END & DADOS**
 
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+![Node.js](https://img.shields.io/badge/Node.js-172537?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-172537?style=for-the-badge&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172537?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-**Banco de Dados**
+**03 / DESENVOLVIMENTO**
 
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![pgAdmin](https://img.shields.io/badge/pgAdmin-%23316192.svg?logo=postgresql&logoColor=white)](#)
+![Git](https://img.shields.io/badge/Git-172537?style=for-the-badge&logo=git&logoColor=F05032)
+![npm](https://img.shields.io/badge/npm-172537?style=for-the-badge&logo=npm&logoColor=CB3837)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-172537.svg?style=for-the-badge&logo=vsc&logoColor=4C9FE5)
 
-**Design & Ferramentas**
+**04 / DESIGN**
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-[![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-
----
-
-*Sempre aprendendo algo novo! 🚀*
+![Figma](https://img.shields.io/badge/Figma-172537?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Canva](https://custom-icon-badges.demolab.com/badge/Canva-172537.svg?style=for-the-badge&logo=canva&logoColor=00C4CC)
