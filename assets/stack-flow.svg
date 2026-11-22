@@ -10,11 +10,11 @@
 <rect x="333" y="72" width="7" height="7" rx="2" fill="#52DBD0"/>
 <text x="348" y="80" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#B3C3D2">02 / FRONT-END</text>
 <text x="335" y="109" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F5F8FD">Aplicação</text>
-<text x="335" y="134" font-family="Arial, sans-serif" font-size="13" fill="#A1B5C8">JavaScript · TypeScript</text><rect x="606" y="58" width="242" height="91" rx="8" fill="#142439" stroke="#395169" stroke-width="1.5"/>
+<text x="335" y="134" font-family="Arial, sans-serif" font-size="13" fill="#A1B5C8">React · TypeScript</text><rect x="606" y="58" width="242" height="91" rx="8" fill="#142439" stroke="#395169" stroke-width="1.5"/>
 <rect x="621" y="72" width="7" height="7" rx="2" fill="#82B7FF"/>
 <text x="636" y="80" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#B3C3D2">03 / BACK-END</text>
 <text x="623" y="109" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F5F8FD">Servidor</text>
-<text x="623" y="134" font-family="Arial, sans-serif" font-size="13" fill="#A1B5C8">Node.js · npm</text><rect x="894" y="58" width="276" height="91" rx="8" fill="#142439" stroke="#395169" stroke-width="1.5"/>
+<text x="623" y="134" font-family="Arial, sans-serif" font-size="13" fill="#A1B5C8">Node.js · Python</text><rect x="894" y="58" width="276" height="91" rx="8" fill="#142439" stroke="#395169" stroke-width="1.5"/>
 <rect x="909" y="72" width="7" height="7" rx="2" fill="#8DDFAB"/>
 <text x="924" y="80" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#B3C3D2">04 / DATA</text>
 <text x="911" y="109" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F5F8FD">Persistência</text>
