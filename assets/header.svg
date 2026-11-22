@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="346" viewBox="0 0 1240 346" role="img" aria-labelledby="title desc">
+<title id="title">Guilherme Matos Paiva — Full-Stack Developer</title>
+<desc id="desc">Banner com o nome Guilherme Matos Paiva e um diagrama animado de front-end, back-end e banco de dados.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A111D"/><stop offset=".58" stop-color="#101C2B"/><stop offset="1" stop-color="#0B1422"/></linearGradient>
+ <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#42DDD5"/><stop offset="1" stop-color="#74B7FD"/></linearGradient>
+ <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#274057" stroke-width=".8" opacity=".29"/></pattern>
+</defs>
+<rect x="1" y="1" width="1238" height="344" rx="18" fill="url(#bg)" stroke="#29394D" stroke-width="2"/>
+<rect x="709" y="19" width="513" height="309" fill="url(#grid)" opacity=".58"/>
+<path d="M 42 66 L 42 280" stroke="url(#cyan)" stroke-width="4" stroke-linecap="round"/>
+<rect x="72" y="43" width="8" height="8" rx="2" fill="#49DDCB"/>
+<text x="94" y="51" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="15" letter-spacing="2" fill="#8CA5B7">DEVELOPER PROFILE</text>
+<text x="71" y="154" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="65" letter-spacing="-1.5" fill="#F3F7FD">Guilherme</text>
+<text x="71" y="226" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="65" letter-spacing="-1.5" fill="#F3F7FD">Matos Paiva</text>
+<text x="73" y="277" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" letter-spacing="1.1" fill="#52DACA">FULL-STACK DEVELOPER</text>
+<path d="M73 305 H583" stroke="#2E4254" stroke-width="1.3"/>
+<text x="74" y="324" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1" fill="#8297AC">FRONT-END  /  BACK-END  /  DATABASE</text>
+<path d="M 697 40 L697 306" stroke="#334454" stroke-width="1"/>
+<rect x="733" y="55" width="457" height="243" rx="13" fill="#0B1522" stroke="#34475C" stroke-width="1.5"/>
+<circle cx="759" cy="81" r="4" fill="#44D9CA"/>
+<circle cx="775" cy="81" r="4" fill="#48617A"/>
+<circle cx="791" cy="81" r="4" fill="#48617A"/>
+<text x="811" y="87" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.3" fill="#AFBED0">APPLICATION FLOW</text>
+<path d="M759 100 H1165" stroke="#25374A" stroke-width="1"/>
+<rect x="759" y="137" width="123" height="82" rx="9" fill="#142438" stroke="#44858C" stroke-width="1.2"/>
+<rect x="760" y="138" width="121" height="3" rx="1" fill="#42DCCB"/>
+<text x="774" y="161" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.6" fill="#73DCD4">01  /  UI</text>
+<text x="774" y="182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#F1F7FF">Front-end</text>
+<text x="774" y="204" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#99ADC0">HTML · CSS · JS</text>
+<path d="M884 178 H922" stroke="#426279" stroke-width="2" stroke-linecap="round"/>
+<circle cx="889.00" cy="178" r="4.4" fill="#4DE5DB" opacity="0.200"><animate attributeName="cx" values="889;921" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.8s" repeatCount="indefinite"/></circle>
+<rect x="923" y="137" width="113" height="82" rx="9" fill="#142438" stroke="#53688E" stroke-width="1.2"/>
+<rect x="924" y="138" width="111" height="3" rx="1" fill="#77B9FD"/>
+<text x="937" y="161" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.6" fill="#99C6FE">02  /  API</text>
+<text x="937" y="182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#F1F7FF">Back-end</text>
+<text x="937" y="204" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#99ADC0">Node.js</text>
+<path d="M1038 178 H1073" stroke="#426279" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1055.70" cy="178" r="4.4" fill="#83C4FF" opacity="0.999"><animate attributeName="cx" values="1041;1071" dur="2.8s" begin="1.35s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.8s" begin="1.35s" repeatCount="indefinite"/></circle>
+<rect x="1074" y="137" width="98" height="82" rx="9" fill="#142438" stroke="#576F77" stroke-width="1.2"/>
+<rect x="1075" y="138" width="96" height="3" rx="1" fill="#8CD7A4"/>
+<text x="1086" y="161" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.3" fill="#9BDDB2">03  /  DB</text>
+<text x="1086" y="182" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#F1F7FF">Database</text>
+<text x="1086" y="204" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#99ADC0">PostgreSQL</text>
+<path d="M760 244 H1162" stroke="#25374A" stroke-width="1"/>
+<text x="762" y="270" font-family="Courier New, monospace" font-weight="700" font-size="14.2" fill="#94ABBE">&gt; build / connect / iterate</text>
+<rect x="1018" y="257" width="8" height="15" fill="#53E1D2" opacity="1.00"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.48;.5;.98;1" dur="1.9s" repeatCount="indefinite"/></rect>
+<circle cx="1173" cy="81" r="4.2" fill="#51D9BE" opacity="0.30"><animate attributeName="opacity" values=".35;.85;.35" dur="3.3s" repeatCount="indefinite"/></circle>
+</svg>

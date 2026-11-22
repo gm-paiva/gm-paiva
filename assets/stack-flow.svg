@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="182" viewBox="0 0 1200 182" role="img" aria-label="Fluxo de trabalho: interface, aplicação, serviços, dados">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0D1828"/><stop offset="1" stop-color="#101B2A"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="180" rx="14" fill="url(#bg)" stroke="#30465A" stroke-width="2"/>
+<text x="30" y="35" font-family="Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="2.3" fill="#8FB5C2">DA INTERFACE AOS DADOS</text>
+<rect x="30" y="58" width="242" height="91" rx="8" fill="#142439" stroke="#395169" stroke-width="1.5"/>
+<rect x="45" y="72" width="7" height="7" rx="2" fill="#53DBD0"/>
+<text x="60" y="80" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#B3C3D2">01 / DESIGN</text>
+<text x="47" y="109" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F5F8FD">Interface</text>
+<text x="47" y="134" font-family="Arial, sans-serif" font-size="13" fill="#A1B5C8">Figma · HTML · CSS</text><rect x="318" y="58" width="242" height="91" rx="8" fill="#142439" stroke="#395169" stroke-width="1.5"/>
+<rect x="333" y="72" width="7" height="7" rx="2" fill="#52DBD0"/>
+<text x="348" y="80" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#B3C3D2">02 / FRONT-END</text>
+<text x="335" y="109" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F5F8FD">Aplicação</text>
+<text x="335" y="134" font-family="Arial, sans-serif" font-size="13" fill="#A1B5C8">JavaScript · TypeScript</text><rect x="606" y="58" width="242" height="91" rx="8" fill="#142439" stroke="#395169" stroke-width="1.5"/>
+<rect x="621" y="72" width="7" height="7" rx="2" fill="#82B7FF"/>
+<text x="636" y="80" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#B3C3D2">03 / BACK-END</text>
+<text x="623" y="109" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F5F8FD">Servidor</text>
+<text x="623" y="134" font-family="Arial, sans-serif" font-size="13" fill="#A1B5C8">Node.js · npm</text><rect x="894" y="58" width="276" height="91" rx="8" fill="#142439" stroke="#395169" stroke-width="1.5"/>
+<rect x="909" y="72" width="7" height="7" rx="2" fill="#8DDFAB"/>
+<text x="924" y="80" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#B3C3D2">04 / DATA</text>
+<text x="911" y="109" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F5F8FD">Persistência</text>
+<text x="911" y="134" font-family="Arial, sans-serif" font-size="13" fill="#A1B5C8">PostgreSQL · pgAdmin</text>
+<path d="M273 103 H317 M561 103 H605 M849 103 H893" stroke="#527184" stroke-width="2"/>
+<circle cx="275.00" cy="103" r="5" fill="#52DFD5" opacity="0.250"><animate attributeName="cx" values="275;313" dur="3.3s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3.3s" repeatCount="indefinite"/></circle><circle cx="566.68" cy="103" r="5" fill="#70BDFF" opacity="0.864"><animate attributeName="cx" values="553;591" dur="3.3s" begin="1.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3.3s" repeatCount="indefinite"/></circle><circle cx="858.22" cy="103" r="5" fill="#9FE9AD" opacity="0.763"><animate attributeName="cx" values="832;870" dur="3.3s" begin="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3.3s" repeatCount="indefinite"/></circle>
+</svg>
