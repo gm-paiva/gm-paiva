@@ -13,13 +13,13 @@ Sou **Guilherme Matos Paiva**, estudante de **Desenvolvimento de Software Multip
 ![HTML5](https://img.shields.io/badge/HTML5-172537?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-172537?style=for-the-badge&logo=css&logoColor=663399)
 ![JavaScript](https://img.shields.io/badge/JavaScript-172537?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-172537?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-172537?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **02 / BACK-END & DADOS**
 
-![Node.js](https://img.shields.io/badge/Node.js-172537?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![TypeScript](https://img.shields.io/badge/TypeScript-172537?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-172537?style=for-the-badge&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-172537?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172537?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 **03 / DESENVOLVIMENTO**
